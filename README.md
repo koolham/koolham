@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @koolham
 - 👀 I’m interested in simulation games
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning QML
 - 💞️ I’m not looking to collaborate on anything at the moment until I have more time.
 - 📫 How to reach me ...TBD
 
